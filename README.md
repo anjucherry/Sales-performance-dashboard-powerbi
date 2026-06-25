@@ -1,10 +1,10 @@
 # Sales Performance Dashboard
 
-An interactive Power BI dashboard project built using AdventureWorks sales data. The project includes comprehensive Sales Performance, Regional Analysis, Product Analysis, and Customer Insights dashboards. It leverages DAX, data modeling, Power Query, maps, slicers, and drill-through analysis for deep business insights.
+An interactive Power BI dashboard project built using Amazon sales data. The project includes comprehensive Sales Performance, Regional Analysis, Product Analysis, and Customer Insights dashboards. It leverages DAX, data modeling, Power Query, maps, slicers, and drill-through analysis for deep business insights.
 
 ## Project Overview
 
-This project transforms raw AdventureWorks sales datasets into structured, meaningful business insights. The focus is on key areas like profitability, regional trends, product success, and customer behavior.
+This project transforms raw Amazon sales datasets into structured, meaningful business insights. The focus is on key areas like profitability, regional trends, product success, and customer behavior.
 
 The dashboard suite provides insights into:
 
@@ -68,7 +68,7 @@ This dashboard focuses on understanding the customer base, demographics, and key
 
 ## Datasets Used
 
-This project utilizes the classic AdventureWorks sales dataset, containing information on:
+This project utilizes the classic Amazon sales dataset, containing information on:
 
 *   Sales Transactions
 *   Territories and Regional Data
